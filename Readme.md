@@ -31,8 +31,8 @@ Create an API for statistics
 - Total number of sold items of selected month
 - Total number of not sold items of selected month
 
-Filename: Task_04
-GET
+### Filename: Task_04
+GET\
 Create an API for bar chart ( the response should contain price range and the number of items in that range for the selected month regardless of the year )
 - 0 - 100
 - 101 - 200
